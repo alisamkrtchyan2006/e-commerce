@@ -1,0 +1,30 @@
+# Node.js modules
+/node_modules/
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+logs/
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Build output
+/dist
+/build
+
+# Optional: If you have coverage reports or other temporary build files
+/coverage
+*.lcov
